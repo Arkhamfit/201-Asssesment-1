@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9da8e524c1347674f87a43f70f318ae8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arcaneBoltProjectile: {fileID: 4642765632751905, guid: e1696a85c2b20d546a3fd245cd4d7026, type: 3}
+  - gameOverText: {instanceID: 0}
+  - swordCollider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
